@@ -1,5 +1,9 @@
 # Official [Cyber Range](http://joshmadakor.tech/cyber-range) Project
 
+## Credits
+
+- **Wireshark / WinPcap force-remove script** (`wireshark-winpcap-force-remove.ps1`): sourced from [kenbananola/ken-remediation-scripts](https://github.com/kenbananola/ken-remediation-scripts/blob/main/wireshark-winpcap-force-remove.ps1). I did not author this script. [I used it as-is / I reviewed and tested it in my lab.]
+
 <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
 
 # Threat Hunt Report: Unauthorized TOR Usage
